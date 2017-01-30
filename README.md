@@ -13,4 +13,4 @@ Nesta máquina você vai ter as seguintes configurações.
 
 •	Phpmayadmin
 
-Ambiente pronto para desenvolver aplicaçãoes em php, ja vem configurado com Xdebug e tratamento de erros, SSL ativa em localhost caso precise de utilizar em seus projetos mais complexos.
+Ambiente pronto para desenvolver aplicações em php, ja vem configurado com Xdebug e tratamento de erros, SSL ativa em localhost caso precise de utilizar em seus projetos mais complexos.
