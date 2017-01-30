@@ -214,3 +214,5 @@ sudo service apache2 restart
 sudo sed -i "s/exit 0*/sleep 5/" /etc/rc.local
 echo "sudo /etc/init.d/apache2 restart" >> /etc/rc.local
 echo "exit 0" >> /etc/rc.local
+
+echo "apachectl start" >> /etc/profile
