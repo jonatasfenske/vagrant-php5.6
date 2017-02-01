@@ -39,8 +39,9 @@ export LANG=C.UTF-8
 
     # Instalando PHP
     # -qq implies -y --force-yes
-    sudo apt-get install -y php5.6 libapache2-mod-php5.6 php5.6-curl php5.6-gd php5.6-mcrypt  php5.6-mysql php5.6-xml php5.6-xdebug  php5.6-mbstring --assume-yes --force-yes 
+    sudo apt-get install -y php5.6 libapache2-mod-php5.6 php5.6-curl php5.6-gd php5.6-mcrypt  php5.6-mysql php5.6-xdebug  php5.6-mbstring --assume-yes --force-yes 
 
+	sudo apt-get install -y php5.6-xml
 	
 	apt-get -y autoremove
 	
